@@ -1,8 +1,9 @@
 # bing_
-This bit of javascript opens a bing window when used as a bookmarklet.
+This bit of javascript makes a tab editable, changes will NOT permanently save.
 instructions:
-- copy javascript raw
+- copy raw
 - in address bar type ' javascript: ' 
 - ctrl  + v
 - hit enter
-
+OR 
+use as a bookmarklet
